@@ -13,6 +13,9 @@ http://www.inf.fu-berlin.de/inst/ag-ki/adaboost4.pdf
 
 https://www.kaggle.com/syeddanish/keras-starter-script-with-word-embeddings/notebook
 
+## Troubleshoot links (issues with FastText itself)
+https://github.com/RaRe-Technologies/gensim/issues/1236
+
 ## Funny links
 http://www.sentiment140.com/search?query=jayz&hl=en
 https://www.tweetsentimentapi.com/
